@@ -20,7 +20,7 @@ import mimetools
 
 hostIP = '192.168.88.14'
 octoPort = '5000'
-apiKey = '7CC15816FBE74599B7C17DD898C38CA4'
+apiKey = '7CC15816FBE7459XXXXXXXXXX'
 sendLoc = 'local' # or 'sdcard'
 gcodeExt = 'gcode'
 sslBool = 'no'
